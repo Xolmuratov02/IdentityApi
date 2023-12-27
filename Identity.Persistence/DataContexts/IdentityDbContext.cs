@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Identity.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Identity.Persistence.DataContexts;
 
