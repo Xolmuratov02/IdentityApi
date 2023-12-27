@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Common\Identity\Services\" />
     <Folder Include="Common\Notifications\Services\" />
   </ItemGroup>
 
